@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WURGJDV+Ass=",
+  "success": true,
+  "projectFilePath": "/home/ex_gatito/price-sentinel/ScraperBackend/ScraperBackend.csproj",
+  "expectedPackageFiles": [
+    "/home/ex_gatito/.nuget/packages/htmlagilitypack/1.12.4/htmlagilitypack.1.12.4.nupkg.sha512",
+    "/home/ex_gatito/.nuget/packages/microsoft.aspnetcore.openapi/9.0.11/microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "/home/ex_gatito/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
